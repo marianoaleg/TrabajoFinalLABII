@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1572387179 source:c:\users\mariano\documents\codeblocks\trabajofinallabii\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<cstring>
+	"clases.h"
+	"menues.h"
+
+1572463918 c:\users\mariano\documents\codeblocks\trabajofinallabii\clases.h
+
+1572385981 c:\users\mariano\documents\codeblocks\trabajofinallabii\menu.h
+
+1572388053 c:\users\mariano\documents\codeblocks\trabajofinallabii\menues.h
+	"clases.h"
+
